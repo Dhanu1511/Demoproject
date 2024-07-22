@@ -1,0 +1,5 @@
+FormDetails
+Name:
+Contact no:
+Address:
+Education:
